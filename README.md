@@ -45,3 +45,8 @@ https://www.kaggle.com/datasets/pacificrm/skindiseasedataset
 ---
 
 ## Project Structure
+Skin_diseases_classification/
+│
+├── train.py
+├── README.md
+├── requirements.txt
