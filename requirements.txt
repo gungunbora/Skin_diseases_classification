@@ -1,0 +1,11 @@
+torch
+torchvision
+timm
+numpy
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+pillow
+tqdm
+efficientnet_pytorch
